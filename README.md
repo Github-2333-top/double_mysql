@@ -18,8 +18,6 @@
 
 [五、快速瘦身](#jump7)
 
-[六、后记](#jump8)
-
 ------
 
 <span id="jump1">**前言**</span>
@@ -192,7 +190,7 @@ cash是游戏商城的默认充值账号；game和root都是正常账号。
 
 但这就涉及到一个问题了：我的本机在哪里？
 
-**二，更改IP指向**
+<span id="jump4">**二，更改IP指向**</span>
 
 本机的“位置”，也就是IP地址。
 
@@ -288,7 +286,7 @@ VirtualBox Host-Only Network，是你安装的VirtualBox，所提供的，也就
 
 整个过程中最难的部分你已经迈过去了，接下来就是告诉你的服务端，我是个有六个IP的男/女人！
 
-**三，告知服务器你已更改IP地址**
+<span id="jump5">**三，告知服务器你已更改IP地址**</span>
 
 运行服务端，输入好密码；
 
@@ -348,7 +346,7 @@ VirtualBox Host-Only Network，是你安装的VirtualBox，所提供的，也就
 
 ​    ![0](https://note.youdao.com/yws/public/resource/56087a0ee4c92847b2b8e32b3a7379a8/xmlnote/753737F4E070484CA398DF91933357D7/485)
 
-**四，快速备份存档**
+<span id="jump6">**四，快速备份存档**</span>
 
 如果你担心存档丢失；
 
@@ -376,7 +374,7 @@ VirtualBox Host-Only Network，是你安装的VirtualBox，所提供的，也就
 
 这说明出问题了，有时候可能眼花看错了。前面会有大量的“err”，如果你没看到，那这个损失你就得自己弥补了。
 
-**五，利用快照功能快速瘦身**
+<span id="jump7">**五，利用快照功能快速瘦身**</span>
 
 **经过上面的演练，你已经更改好了服务端。**
 
